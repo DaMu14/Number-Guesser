@@ -1,14 +1,21 @@
 # Number Generator
 
-## Informieren:
+## 1 Informieren
 
+1.1 Mein Projekt
 
+1.2 Anforderungen
+| US-№ | Verbindlichkeit | Typ        | Beschreibung                                                                                                                                   |
+| ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+|   |    Muss           | Funktional |  Als Benutzer möchte ich, dass der Computer eine Geheimzahl zwischen 1 und 100 speichert, damit ich sie erraten kann. |
+|  |   Muss             | Funktional| Als Benutzer möchte ich, dass ich Zahlen erraten kann, damit das Spiel spass macht. |
+|   |   Muss |  Funktional    | 
 
 | US-№ | Datum | Arbeitspaket  | Verantwortliche Person   |
 | ---- | ----- | ------------- | ------------------------- |
 | 1.1 | 18.08.23   | Ziele erstellen | Damian Müller |
 | 2.1 | 18.08.23   | Projekt planen |Damian Müller |
-| 3.1 | 18.08.23   | Der Computer speichert eine Zufallszahl zwischen und mit 1 bis 101 als Geheimzahl.   | Damian Müller |
+| 3.1 | 18.08.23   | Der Computer speichert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl.   | Damian Müller |
 | 4.1 | 25.08.23   | Der Benutzer kann Zahlen erraten. | Damian Müller |
 | 5.1 | 25.08.23   | Der Benutzer kann Zahlen eingeben. | Damian Müller |
 | 6.1 | 25.08.23   | Dem Benutzer wird angezeigt, ob die Zahl grösser, kleiner oder richtig ist. | Damian Müller |
