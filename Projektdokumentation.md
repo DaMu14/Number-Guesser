@@ -1,4 +1,4 @@
-# Number Generator
+# Number Guesser
 
 ## Informieren
  
