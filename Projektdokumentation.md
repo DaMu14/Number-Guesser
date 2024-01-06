@@ -59,3 +59,5 @@
 | 5 | 7.1 |  OK ✅         | 6.1.24 | Müller |
 | 6 | 8.1 |  OK ✅         | 6.1.24 | Müller |
 | 7 | 9.1 |  OK ✅         | 6.1.24 | Müller |
+
+Alle Tests sind erfolgreich und das Programm läuft eigentlich so wie es soll.
