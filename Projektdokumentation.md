@@ -1,8 +1,7 @@
 # Number Generator
 
 ## 1 Informieren
-
-1.1 Mein Projekt
+ 
 
 1.2 Anforderungen
 | US-№ | Verbindlichkeit | Typ        | Beschreibung |                                                                                                                       
