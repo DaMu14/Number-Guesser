@@ -1,9 +1,9 @@
 # Number Generator
 
-## 1 Informieren
+## Informieren
  
 
-1.2 Anforderungen
+ Anforderungen
 | US-№ | Verbindlichkeit | Typ        | Beschreibung |                                                                                                                       
 | ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------|
 | 1  |    Muss           | Funktional |  Als Benutzer möchte ich, dass der Computer eine Geheimzahl zwischen 1 und 100 speichert, damit ich sie erraten kann. |
