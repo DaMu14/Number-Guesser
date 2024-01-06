@@ -5,16 +5,21 @@
 1.1 Mein Projekt
 
 1.2 Anforderungen
-| US-№ | Verbindlichkeit | Typ        | Beschreibung |                                                                                                                            
-| ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| US-№ | Verbindlichkeit | Typ        | Beschreibung |                                                                                                                       
+| ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------|
 |   |    Muss           | Funktional |  Als Benutzer möchte ich, dass der Computer eine Geheimzahl zwischen 1 und 100 speichert, damit ich sie erraten kann. |
 |  |   Muss             | Funktional| Als Benutzer möchte ich, dass ich Zahlen erraten kann, damit das Spiel spass macht. |
 |   |   Muss |  Funktional    | Als Benutzer möchte ich, dass mir angezeigt wird, ob die gesuchte Zahl grösser, kleiner oder die richtige ist, damit ich weiss wo ich weiter raten muss.|
-|    | Muss            | Funktional | Als Benutzer möchte ich, dass die Versuche angezeigt werden, damit ich weiss wieviele Versuche ich hatte. |
+|    | Muss       | Funktional | Als Benutzer möchte ich, dass die Versuche angezeigt werden, damit ich weiss wieviele Versuche ich hatte. |
 |    |  Muss |        | Funktional   | Als Benutzer möchte ich, dass mir der Highscore angezeigt wird, damit ich weiss was mein bester Versuch war. |
 |     |  Muss   |  Funktional | Als Benutzer möchte ich, dass ich zwischen 5 und unbegrenzten Versuchen entscheiden kann, damit ich mehr Spielspass habe.   |
 |    |  Muss    | Funktional | Als Benutzer möchte ich, dass Eingabefehler abgefangen werden, damit das Programm nicht immer abstürzt. |
 
+
+ 
+
+
+## Planen
 
 | US-№ | Datum | Arbeitspaket  | Verantwortliche Person   |
 | ---- | ----- | ------------- | ------------------------- |
@@ -22,31 +27,36 @@
 | 2.1 | 18.08.23   | Projekt planen |Damian Müller |
 | 3.1 | 18.08.23   | Der Computer speichert eine Zufallszahl zwischen und mit 1 bis 100 als Geheimzahl.   | Damian Müller |
 | 4.1 | 25.08.23   | Der Benutzer kann Zahlen erraten. | Damian Müller |
-| 5.1 | 25.08.23   | Der Benutzer kann Zahlen eingeben. | Damian Müller |
-| 6.1 | 25.08.23   | Dem Benutzer wird angezeigt, ob die Zahl grösser, kleiner oder richtig ist. | Damian Müller |
-| 7.1 | 25.08.23   | Die Anzahl Versuche werden angezeigt. | Damian Müller |
-| 8.1 | 1.9.23     | Dem Benutzer wird der Highscore angezeigt. | Damian Müller |
-| 9.1 | 25.08.23   | Der Benutzer kann zwischen 5 und unbegrenzten Versuche wählen | Damian Müller |
-| 10.1| 25.08.23   | Das Programm kann Eingabefehler abfangen | Damian Müller|
+| 5.1 | 25.08.23   | Dem Benutzer wird angezeigt, ob die Zahl grösser, kleiner oder richtig ist. | Damian Müller |
+| 6.1 | 25.08.23   | Die Anzahl Versuche werden angezeigt. | Damian Müller |
+| 7.1 | 1.9.23     | Dem Benutzer wird der Highscore angezeigt. | Damian Müller |
+| 8.1 | 25.08.23   | Der Benutzer kann zwischen 5 und unbegrenzten Versuche wählen | Damian Müller |
+| 9.1| 25.08.23   | Das Programm kann Eingabefehler abfangen | Damian Müller|
 
+
+## Kontrollieren
 
 ### Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 |---|---|---|---|
-| 3.1 | Applikation ist gestartet | - | Zahl wird gespeichert|
+| 3.1 | Applikation ist gestartet | 5 oder unbegrenzte Versuche auswählen | Zahl wird gespeichert|
 | 4.1 | Applikation ist gestartet | 1 oder 2  |  Geben sie eine Zahl ein |
-| 5.1 | Applikation ist gestartet | Zahl | Zahl ist grösser, kleiner oder die richtige Zahl |
-| 6.1 | Eine Zahl wurde eingegeben | - | Zahl ist grösser, kleiner oder die richtige Zahl |
-| 7.1 | Zahl wurde erraten | - | Anzahl Versuche |
-| 8.1 | Zahl wurde erraten | - | Highscore wird angezeigt |
-| 9.1 | Applikation ist gestartet | 1 oder 2 | 5 und unbegrenzten Versuche gewählt |
-| 10.1| Applikation ist gestartet | A | Geben sie eine ganze Zahl ein |
+| 5.1 | Eine Zahl wurde eingegeben | 10 | Zahl ist grösser, kleiner oder die richtige Zahl |
+| 6.1 | Zahl wurde erraten |  - | Anzahl Versuche |
+| 7.1 | Zahl wurde erraten | - | Highscore wird angezeigt |
+| 8.1 | Applikation ist gestartet | 1 oder 2 | 5 und unbegrenzten Versuche gewählt |
+| 9.1| Applikation ist gestartet | A | Geben sie eine ganze Zahl ein |
 
-
-## Kontrollieren
 
 ### Testprotokoll
+
+| Test-№ | TC-№ | Resultat | Datum      | Tester |
+| ------ | ---- | -------- | ---------- | ------ |
+| 1 | 3.1 |  OK ✅         | 6.1.24 | Müller |
+| 2 | 4.1 |  OK ✅         | 6.1.24 | Müller |
+| 3 | 5.1 |   OK ✅         | 6.1.24 | Müller |
+| 4 |
 
 | TC-№ | Datum | Resultat                          | Tester   |
 |------|-------|-----------------------------------|----------|
