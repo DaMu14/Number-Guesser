@@ -12,7 +12,8 @@
 |   |   Muss |  Funktional    | Als Benutzer möchte ich, dass mir angezeigt wird, ob die gesuchte Zahl grösser, kleiner oder die richtige ist, damit ich weiss wo ich weiter raten muss.|
 |    | Muss            | Funktional | Als Benutzer möchte ich, dass die Versuche angezeigt werden, damit ich weiss wieviele Versuche ich hatte. |
 |    |  Muss |        | Funktional   | Als Benutzer möchte ich, dass mir der Highscore angezeigt wird, damit ich weiss was mein bester Versuch war. |
-|     |  Muss   |  Funktional |                                                                              |                                                                              |
+|     |  Muss   |  Funktional | Als Benutzer möchte ich, dass ich zwischen 5 und unbegrenzten Versuchen entscheiden kann, damit ich mehr Spielspass habe.   |
+|    |  Muss    | Funktional | Als Benutzer möchte ich, dass Eingabefehler abgefangen werden, damit das Programm nicht immer abstürzt. |
 
 
 | US-№ | Datum | Arbeitspaket  | Verantwortliche Person   |
