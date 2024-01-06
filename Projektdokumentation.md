@@ -55,16 +55,8 @@
 | ------ | ---- | -------- | ---------- | ------ |
 | 1 | 3.1 |  OK ✅         | 6.1.24 | Müller |
 | 2 | 4.1 |  OK ✅         | 6.1.24 | Müller |
-| 3 | 5.1 |   OK ✅         | 6.1.24 | Müller |
-| 4 |
-
-| TC-№ | Datum | Resultat                          | Tester   |
-|------|-------|-----------------------------------|----------|
-| 3.1 | 8.9.23 | Zahl wird gespeichert | Müller |
-| 4.1 | 8.9.23 | Konsole gibt aus: "Geben sie eine Zahl ein" | Müller |
-| 5.1 | 8.9.23 | wird angezeigt, ob Zahl grösser, kleiner oder richtig ist | Müller |
-| 6.1 | 8.9.23 | Benutzer wird angezeigt, ob Zahl grösser, kleiner oder richtig ist | Müller |
-| 7.1 | 8.9.23 | Anzahl Versuche werden angezeigt | Müller |
-| 8.1 | 8.9.23 | Highscore wird angezeigt | Müller |
-| 9.1 | 8.9.23 | 5 oder unbegrenzte Versuche sind verfügbar | Müller |
-| 10.1| 8.9.23 | Fehler wird abgefangen | Müller |
+| 3 | 5.1 |  OK ✅        | 6.1.24 | Müller |
+| 4 | 6.1 |  OK ✅         | 6.1.24 | Müller |
+| 5 | 7.1 |  OK ✅         | 6.1.24 | Müller |
+| 6 | 8.1 |  OK ✅         | 6.1.24 | Müller |
+| 7 | 9.1 |  OK ✅         | 6.1.24 | Müller |
