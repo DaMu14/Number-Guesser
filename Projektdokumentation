@@ -5,7 +5,7 @@
 1.1 Mein Projekt
 
 1.2 Anforderungen
-| US-№ | Verbindlichkeit | Typ        | Beschreibung                                                                                                                                   |
+| US-№ | Verbindlichkeit | Typ        | Beschreibung |                                                                                                                                   |
 | ---- | --------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 |   |    Muss           | Funktional |  Als Benutzer möchte ich, dass der Computer eine Geheimzahl zwischen 1 und 100 speichert, damit ich sie erraten kann. |
 |  |   Muss             | Funktional| Als Benutzer möchte ich, dass ich Zahlen erraten kann, damit das Spiel spass macht. |
